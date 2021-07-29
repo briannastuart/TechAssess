@@ -21,17 +21,18 @@ POST - https://demo.docusign.net/restapi/accounts/12345678/envelopes
         }
       },
       {
-        "email": "",
+        "email": "imbatman@waynemanor.xyz",
         "name": "Bruce Wayne",
         "recipientId": 1, 
         "tabs": {
           "signHereTabs": [
             {
-              "xPosition": "-95",
+              "xPosition": "95",
               "yPosition": "48",
               "documentId": "1", 
               "pagenumber": "2"
-            }]
+            }
+          ]
         }
       }
     ]
